@@ -1,2 +1,0 @@
-# ponto-do-delivery
-site
